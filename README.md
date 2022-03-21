@@ -23,12 +23,16 @@ Note: The images are being pulled from https://hub.docker.com/ (https://hub.dock
 ## 2. Running with Docker Compose
 To run the containers you had to execute 3 commands. It would be easier if we only had to execute one command. We can achieve this by using Docker Compose.
 
-### Creating a docker-compose.yml
-Create a docker-compose.yml file to run the webapp and the database. Information on how to create such a file can be found here:
+### Creating a compose.yaml
+Create a compose.yaml file to run the webapp and the database. Information on how to create such a file can be found here:
 * https://docs.docker.com/compose/overview/
 * https://docs.docker.com/compose/compose-file/
 
-Once your created the docker-compose.yml file, run:
+Once your created the compose.yaml file, run:
+```
+docker compose up
+```
+or
 ```
 docker-compose up
 ```
