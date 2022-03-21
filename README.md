@@ -1,5 +1,5 @@
 # docker-compose-exercise
-This is a Docker compose exercise made for the Capgemini Engineering Docker workshop.
+This is a Docker compose exercise made for the PXL Docker Compose course, based on https://github.com/Koenkk/docker-compose-exercise.
 
 ## Project structure
 ### Database
