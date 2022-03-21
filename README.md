@@ -1,4 +1,4 @@
-# docker-compose-exercise
+# Docker Compose exercise
 This is a Docker compose exercise made for the PXL Docker Compose course, based on https://github.com/Koenkk/docker-compose-exercise.
 
 ## Project structure
