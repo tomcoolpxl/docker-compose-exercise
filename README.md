@@ -6,7 +6,7 @@ This is a Docker compose exercise made for the Capgemini Engineering Docker work
 A MySQL database consisting of one table with some movies (see database/database.sql).
 
 ### Webapp
-The webapp retrieves the movies from the database and shows them in a HTML page. This webapp is build using Flask (a Python Microframework).
+The webapp retrieves the movies from the database and shows them in a HTML page. This webapp is built using Flask (a Python Microframework).
 
 ## Exercise
 ## 1. Running the database and webapp
@@ -28,7 +28,7 @@ Create a compose.yaml file to run the webapp and the database. Information on ho
 * https://docs.docker.com/compose/overview/
 * https://docs.docker.com/compose/compose-file/
 
-Once your created the compose.yaml file, run:
+Once you have created the compose.yaml file, run:
 ```
 docker compose up
 ```
